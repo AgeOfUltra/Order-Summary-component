@@ -4,7 +4,7 @@
     margin:0;
 }
 body{
-    background-image:url("pattern-background-desktop.svg");
+    background-image:url('pattern-background-desktop.svg');
 }
 .container{
     width:300px;
